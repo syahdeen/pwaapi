@@ -1,0 +1,14 @@
+{
+"products":[
+{"id":1,"name":"Buffalo, wild water","category":"Maroon"},
+{"id":2,"name":"Red-breasted cockatoo","category":"Khaki"},
+{"id":3,"name":"Egret, cattle","category":"Violet"},
+{"id":4,"name":"Booby, blue-faced","category":"Turquoise"},
+{"id":5,"name":"Beaver, north american","category":"Maroon"},
+{"id":6,"name":"Buffalo, wild water","category":"Purple"},
+{"id":7,"name":"Common wallaroo","category":"Purple"},
+{"id":8,"name":"Pronghorn","category":"Maroon"},
+{"id":9,"name":"Dragon, western bearded","category":"Fuscia"},
+{"id":10,"name":"Eastern box turtle","category":"Violet"}
+]
+}
